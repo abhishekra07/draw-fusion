@@ -11,9 +11,11 @@
     "fabric": "6.0.2",
     "fabricjs-react": "2.1.0",
     "react": "^19.0.0",
+    "react-color": "^2.19.3",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.4.0",
+    "react-draggable": "^4.4.6",
     "react-easy-crop": "^5.4.1",
+    "react-router-dom": "^7.4.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {

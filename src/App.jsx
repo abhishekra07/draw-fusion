@@ -1,9 +1,10 @@
 import React from 'react';
+import AppLayout from './components/AppLayout';
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <AppLayout />
     </>
   );
 }
